@@ -28,7 +28,8 @@ h1{
 h2{
   col-md-auto
   font-size: 2em;
-  color: yellow;
+  color: fuchsia;
+  mix-blend-mode: difference;
 }
 h3{
   animation-delay: 5s;
